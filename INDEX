@@ -1,0 +1,7 @@
+cl		Composite likelihood estimation for MVN copula
+godambe		Asymptotic covariance matrix of the weighted composite likelihood estimates
+iee		Independent estimating equations 
+pbvt Bivariate normal and Student cdfs with vectorized inputs
+wcl	Weighted composite likelihood estimating equations 
+weightMat		Weight matrices for the weighted composite likelihood estimating equations
+

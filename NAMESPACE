@@ -1,0 +1,20 @@
+useDynLib(weightedCL)
+
+export(cl, wcl, weightMat, godambe, iee)
+export(cl.ord, wcl.ord, weightMat.ord, godambe.ord, iee.ord)
+export(dmargmodel, pmargmodel,dmargmodel.ord, pmargmodel.ord) 
+export(pbvt)
+
+import(sure)
+import(rootSolve)
+import(matlab)
+import(MASS)
+importFrom("stats", "binomial", "dbinom", "dlogis", "dnbinom", "dnorm",
+            "dpois", "glm", "nlm", "pbinom", "plogis", "pnbinom",
+            "pnorm", "poisson", "ppois", "qbinom", "qlogis", "qnbinom",
+            "qnorm", "qpois")
+ importFrom("stats", "ARMAacf", "arima", "resid", "toeplitz")
+  importFrom("utils", "combn")
+
+
+
