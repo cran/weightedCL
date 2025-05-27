@@ -34,10 +34,7 @@ Godambe, V. P. (1991)
 \emph{Estimating Functions}.
 Oxford: Oxford University Press
 
-Nikoloulopoulos, A.K. (2022)
-Efficient and feasible inference for high-dimensional normal copula regression models.
- \emph{Arxiv e-prints}, <arXiv:2203.04619>. \url{https://arxiv.org/abs/2203.04619}.
-
+Nikoloulopoulos, A.K. (2023) Efficient and feasible inference for high-dimensional normal copula regression models. \emph{Computational Statistics and  Data Analysis}, \bold{179}, 107654. \doi{10.1016/j.csda.2022.107654}.
 }
 \author{
 Aristidis K. Nikoloulopoulos \email{A.Nikoloulopoulos@uea.ac.uk}
